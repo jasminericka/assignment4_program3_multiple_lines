@@ -1,1 +1,1 @@
-# assignment4_program3_multiple_lines
+This Python program allows users to write multiple lines of text content into a text file. It begins by prompting the user to input the lines of text they would like to add to the text file. Once all the lines of text have been entered, the program will write the lines of text to the text file and close the file. The program can then be run again to add new lines of text to the file as needed.
